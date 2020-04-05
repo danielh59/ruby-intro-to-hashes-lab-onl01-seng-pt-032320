@@ -4,7 +4,13 @@ return some_hash
 end
 
 def actor
+<<<<<<< HEAD
 actor = {:name => "Dwayne The Rock Johnson"}
+=======
+actor = {:name => ""
+  
+}
+>>>>>>> dd04359fb16c75243410a87f6a6d19315b20c435
 end
 
 def monopoly
